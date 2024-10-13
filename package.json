@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "puppeteer": "^23.5.3"
+  },
+  "name": "linked-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
